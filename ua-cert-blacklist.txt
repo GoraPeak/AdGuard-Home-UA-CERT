@@ -266,53 +266,77 @@
 ||zaditinu-golos-uah.eu^
 ! UAC-0188: Цільові кібератаки з використанням SuperOps RMM (CERT-UA#9797)
 ! https://cert.gov.ua/article/6279419
-!!patient-docs-mail.com^
-!!anotepad.com^
+||patient-docs-mail.com^
+||anotepad.com^
 ! Весняне загострення: UAC-0006 активізувало кібератаки
 ! https://cert.gov.ua/article/6279366
-!!agentsuperpupervinil.ru^
-!!ccbaminumpot.ru^
-!!picwalldoor.ru^
-!!sephoraofficetz.ru^
-!!vikompalion.ru^
-!!vivianstyler.ru^
-!!monopoliafromyou.ru^
-!!rafraystore.ru^
-!!xmr.2miners.com^
+||agentsuperpupervinil.ru^
+||ccbaminumpot.ru^
+||picwalldoor.ru^
+||sephoraofficetz.ru^
+||vikompalion.ru^
+||vivianstyler.ru^
+||monopoliafromyou.ru^
+||rafraystore.ru^
+||xmr.2miners.com^
 ! Викрадення акаунту WhatsApp під виглядом голосування за електронні петиції (CERT-UA#9565)
 ! https://cert.gov.ua/article/6278735
-!!petition-presidentu.com^
-!!president-petition.best^
-!!president-petition6504.best^
-!!president-petition6884.best^
-!!president-petition9034.best^
-!!president-petitions.click^
-!!president-petitions.shop^
-!!petition-president.com^
-!!petitian-president.com^
-!!petition-presidenty.com^
-!!petition-president.org.ua^
-!!petition-presidenta.com^
-!!petition-president.com.ua^
-!!petition-presidente.com^
-!!petition-ukraine.com^
-!!petitionukraine.com^
-!!petition-ukraina.com^
-!!petition--ukraine.com^
-!!petition-ukraina.com.ua^
-!!petition-ukrainiane.com^
-!!petitian-ukraine.com^
-!!petitian--ukraine.com^
-!!petition-presidenty.org.ua^
-!!petition-presidenta.org.ua^
-!!geroiua.com^
-!!geroiukr.site^
-!!geroisavenko.com^
-!!geroiukrainu.com^
-!!geroi-ukraine.com^
-!!geroiukr.com.ua^
-!!geroiua.com.ua^
-!!ua-geroi.com.ua^
-!!ukraine-geroi.org.ua^
-!!petition-president.kyiv.ua^
-!!geroi.kyiv.ua^
+||petition-presidentu.com^
+||president-petition.best^
+||president-petition6504.best^
+||president-petition6884.best^
+||president-petition9034.best^
+||president-petitions.click^
+||president-petitions.shop^
+||petition-president.com^
+||petitian-president.com^
+||petition-presidenty.com^
+||petition-president.org.ua^
+||petition-presidenta.com^
+||petition-president.com.ua^
+||petition-presidente.com^
+||petition-ukraine.com^
+||petitionukraine.com^
+||petition-ukraina.com^
+||petition--ukraine.com^
+||petition-ukraina.com.ua^
+||petition-ukrainiane.com^
+||petitian-ukraine.com^
+||petitian--ukraine.com^
+||petition-presidenty.org.ua^
+||petition-presidenta.org.ua^
+||geroiua.com^
+||geroiukr.site^
+||geroisavenko.com^
+||geroiukrainu.com^
+||geroi-ukraine.com^
+||geroiukr.com.ua^
+||geroiua.com.ua^
+||ua-geroi.com.ua^
+||ukraine-geroi.org.ua^
+||petition-president.kyiv.ua^
+||geroi.kyiv.ua^
+! Чергова кібератака UAC-0149 з використанням Signal, вразливості CVE-2023-38831 та програми COOKBOX (CERT-UA#9522)
+! https://cert.gov.ua/article/6278620v
+||netman.servehttp.com^
+||worker-misty-mouse-6ac7.aky15825.workers.dev^
+! Месенджери та сайти знайомств - нові способи проведення атак UAC-0184 (CERT-UA#9474)
+! https://cert.gov.ua/article/6278521
+||biches-yeah.co.ua^
+||the-new-age.co.ua^
+||i-like-hokku.co.ua^
+||yeah-biches.kyiv.ua^
+||filebin.net^
+||biches-yeah.co.ua^
+! UAC-0149: Цільові вибіркові атаки у відношенні Сил оборони України із застосуванням COOKBOX (CERT-UA#9204)
+! https://cert.gov.ua/article/6277849
+||array.myftp.biz^
+||bom02.gotdns.ch^
+||worker-test-6f41.idv64828.workers.dev^
+! UAC-0027: DIRTYMOE (PURPLEFOX) уражено більше 2000 комп'ютерів в Україні
+! https://cert.gov.ua/article/6277422
+||rpc.1qw.us^
+||ret.6bc.us^
+||kew.1qw.us^
+||kew.8df.us^
+||nk.1qw.us^
