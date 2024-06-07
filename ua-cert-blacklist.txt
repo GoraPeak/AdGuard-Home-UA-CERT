@@ -1,0 +1,4 @@
+||crash.syncthing.net^
+||data.syncthing.net^
+||upgrades.syncthing.net^
+||syncthing.net^
