@@ -340,3 +340,6 @@
 ||kew.1qw.us^
 ||kew.8df.us^
 ||nk.1qw.us^
+! Листи нібито від Держспецзв'язку та ДСНС - атака UAC-0050 з використанням RemoteUtilities (CERT-UA#8654)
+! https://cert.gov.ua/article/6277285
+||8161.uk^
