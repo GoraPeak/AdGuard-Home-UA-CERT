@@ -343,3 +343,12 @@
 ! Листи нібито від Держспецзв'язку та ДСНС - атака UAC-0050 з використанням RemoteUtilities (CERT-UA#8654)
 ! https://cert.gov.ua/article/6277285
 ||8161.uk^
+! https://cert@cert.gov.ua/article/6280563 GRISELDA 
+!!griselda-edu.com.ua^
+!!griselda.biz.ua^
+!!griselda.co.ua^
+!! Для відстежування активності, повʼязаної з модифікацією програми “Очі”, створено ідентифікатор UAC-0210.
+!!bitter-hall-1c0c.ochiplus.workers.dev^
+!!falling-rice-4afa.ochiplus.workers.dev^
+!!ochiplus.workers.dev^
+!!falling-rice-4afa.ochiplus.workers.dev^
