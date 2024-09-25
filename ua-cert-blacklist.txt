@@ -348,7 +348,10 @@
 !!griselda.biz.ua^
 !!griselda.co.ua^
 !! Для відстежування активності, повʼязаної з модифікацією програми “Очі”, створено ідентифікатор UAC-0210.
-!!bitter-hall-1c0c.ochiplus.workers.dev^
-!!falling-rice-4afa.ochiplus.workers.dev^
-!!ochiplus.workers.dev^
-!!falling-rice-4afa.ochiplus.workers.dev^
+||bitter-hall-1c0c.ochiplus.workers.dev^
+||falling-rice-4afa.ochiplus.workers.dev^
+||ochiplus.workers.dev^
+||falling-rice-4afa.ochiplus.workers.dev^
+!! Fishing ukrr.net https://t.me/operativnoZSU/158456
+|| ukrr.net
+
