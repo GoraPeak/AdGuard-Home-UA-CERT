@@ -372,6 +372,7 @@
 !! RU Sita
 ||yandex.ru^
 ||rambler.ru^
+||dzen.ru^
 
 
 
