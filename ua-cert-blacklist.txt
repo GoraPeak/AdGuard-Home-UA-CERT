@@ -356,5 +356,18 @@
 ||ukrr.net^
 !! Fishing
 ||futbolkua.info^
+!! Signal fishing
+||signal-group.tech^
+||signal-device-off.online^
+||signal-group.site^
+||signal-groups.site^
+||signal-security.online^
+||signalgroup.site^
+||signal-groups.tech^
+||signal-security.site^
+||signal-project.tech^
+||groups-signal.site^
+||group-signal.tech^
+||invite-signal.site^
 
 
