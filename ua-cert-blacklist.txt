@@ -369,5 +369,9 @@
 ||groups-signal.site^
 ||group-signal.tech^
 ||invite-signal.site^
+!! RU Sita
+||yandex.ru^
+||rambler.ru^
+
 
 
