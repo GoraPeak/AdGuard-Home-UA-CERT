@@ -344,9 +344,9 @@
 ! https://cert.gov.ua/article/6277285
 ||8161.uk^
 ! https://cert@cert.gov.ua/article/6280563 GRISELDA 
-!!griselda-edu.com.ua^
-!!griselda.biz.ua^
-!!griselda.co.ua^
+||griselda-edu.com.ua^
+||griselda.biz.ua^
+||griselda.co.ua^
 !! Для відстежування активності, повʼязаної з модифікацією програми “Очі”, створено ідентифікатор UAC-0210.
 ||bitter-hall-1c0c.ochiplus.workers.dev^
 ||falling-rice-4afa.ochiplus.workers.dev^
@@ -369,10 +369,22 @@
 ||groups-signal.site^
 ||group-signal.tech^
 ||invite-signal.site^
-!! RU Sita
+!! RU Site
 ||yandex.ru^
 ||rambler.ru^
 ||dzen.ru^
+!! Pteroda site
+||melitaeas.online^
+||tridiuma.ru^
+||barbatus.online^
+||188.225.37.128^
+||optica-rd.myftp.biz^
+||graphiuma.online^
+||185.119.59.227^
+||188.225.58.175^
+||apoxipodes.ru^
+
+
 
 
 
